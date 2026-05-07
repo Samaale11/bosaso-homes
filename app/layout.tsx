@@ -1,4 +1,4 @@
-import './globals.css';
+import './main.css';
 import Header from '../components/Header';
 import Footer from '../components/Footer';
 

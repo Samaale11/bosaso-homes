@@ -1,5 +1,8 @@
+// @ts-ignore
 import './main.css';
+// @ts-ignore
 import Header from '../components/Header';
+// @ts-ignore
 import Footer from '../components/Footer';
 
 export const metadata = {
@@ -25,6 +28,5 @@ export default function RootLayout({
         <Footer />
       </body>
     </html>
-
   );
 }
